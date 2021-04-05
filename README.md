@@ -1,6 +1,6 @@
 ### Hi there, I am Dimitris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a passionate software engineer, with a primary focus on web applications. Τhrough my working experiece and personal experimentation, I aim at developing a comprehensive overall understanding, while keeping up with new trends in software architecture, automation and technologies.
+I am a passionate software engineer, with a primary focus on web applications. Τhrough my working experience and personal experimentation, I aim at developing a comprehensive overall understanding, while keeping up with new trends in software architecture, automation and technologies.
 
 **You can reach me at** 
 <a href="https://www.dfotiou.gr">
