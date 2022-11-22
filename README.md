@@ -39,5 +39,6 @@ I am a passionate software engineer. Τhrough my working experience and personal
 <code><a href=#><img height="30" alt="WebRTC" title="WebRTC"  src="https://sdtimes.com/wp-content/uploads/2017/11/webrtc.png"></a></code>
 <code><a href=#><img height="30" alt="Socket.io" title="Socket.io"  src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"></a></code>
 <code><a href=#><img height="30" alt="Git" title="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
+<code><a href=#><img height="30" alt="SparQL" title="SparQL"  src="https://cygri.github.io/rdf-logos/png/sparql-48.png"></a></code>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fotioudim&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
