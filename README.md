@@ -33,7 +33,7 @@ I am a passionate software engineer. Τhrough my working experience and personal
 *technologies and tools:*
 &nbsp;
 <code><a href=#><img height="30" alt="K8s" title="K8s"  src="https://www.loginradius.com/blog/static/c0eaad61b9cb15dfe35f7a6d2d0f665a/03979/image3.png"></a></code>
-<code><a href=#><img height="30" alt="Docker" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"></a></code>
+<code><a href=#><img height="30" alt="Docker" title="Docker" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png"></a></code>
 <code><a href=#><img height="30" alt="MongoDb" title="MongoDb"  src="https://www.ictdemy.com/images/5728/mdb.png"></a></code>
 <code><a href=#><img height="30" alt="MySQL" title="MySQL"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
 <code><a href=#><img height="30" alt="WebRTC" title="WebRTC"  src="https://sdtimes.com/wp-content/uploads/2017/11/webrtc.png"></a></code>
