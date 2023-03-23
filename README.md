@@ -19,26 +19,27 @@ I am a passionate software engineer. Τhrough my working experience and personal
 
 *languages:*
 &nbsp;
-<code><a href=#><img height="30" alt="Java" title="Java"  src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg"></a></code>
-<code><a href=#><img height="30" alt="Javascript" title="Javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href=#><img height="30" alt="C#" title="C#"  src="https://www.abhith.net/img/topics/c--4.svg"></a></code>
+<code><a href=#><img height="30" alt="Java" title="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a></code>
+<code><a href=#><img height="30" alt="Javascript" title="Javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></a></code>
+<code><a href=#><img height="30" alt="Python" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></a></code>
+<code><a href=#><img height="30" alt="C#" title="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"></a></code>
 
 *frameworks:*
 &nbsp;
-<code><a href=#><img height="30" alt="Quarkus" title="Quarkus"  src="https://crossvale.com/wp-content/uploads/2021/11/quarkus.jpeg"></a></code>
-<code><a href=#><img height="30" alt="Nodejs" title="Nodejs"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-<code><a href=#><img height="30" alt="Spring" title="Spring"  src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/104961974/original/115a26d1dd15eb9dc31b93fc1032b8ce9c1d3e3c/develop-web-services-from-spring-framework.png"></a></code>
-<code><a href=#><img height="30" alt=".Net" title=".Net"  src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg"></a></code>
+<code><a href=#><img height="30" alt="Quarkus" title="Quarkus" src="https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png"></a></code>
+<code><a href=#><img height="30" alt="Nodejs" title="Nodejs" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></a></code>
+<code><a href=#><img height="30" alt="Spring" title="Spring" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"></a></code>
+<code><a href=#><img height="30" alt=".Net" title=".Net" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg"></a></code>
 
 *technologies and tools:*
 &nbsp;
-<code><a href=#><img height="30" alt="K8s" title="K8s"  src="https://www.loginradius.com/blog/static/c0eaad61b9cb15dfe35f7a6d2d0f665a/03979/image3.png"></a></code>
-<code><a href=#><img height="30" alt="Docker" title="Docker" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png"></a></code>
-<code><a href=#><img height="30" alt="MongoDb" title="MongoDb"  src="https://www.ictdemy.com/images/5728/mdb.png"></a></code>
-<code><a href=#><img height="30" alt="MySQL" title="MySQL"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
-<code><a href=#><img height="30" alt="WebRTC" title="WebRTC"  src="https://sdtimes.com/wp-content/uploads/2017/11/webrtc.png"></a></code>
-<code><a href=#><img height="30" alt="Socket.io" title="Socket.io"  src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"></a></code>
-<code><a href=#><img height="30" alt="Git" title="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href=#><img height="30" alt="SparQL" title="SparQL"  src="https://cygri.github.io/rdf-logos/png/sparql-48.png"></a></code>
+<code><a href=#><img height="30" alt="K8s" title="K8s" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"></a></code>
+<code><a href=#><img height="30" alt="Docker" title="Docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"></a></code>
+<code><a href=#><img height="30" alt="MongoDb" title="MongoDb" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"></a></code>
+<code><a href=#><img height="30" alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></a></code>
+<code><a href=#><img height="30" alt="WebRTC" title="WebRTC" src="https://sdtimes.com/wp-content/uploads/2017/11/webrtc.png"></a></code>
+<code><a href=#><img height="30" alt="Socket.io" title="Socket.io" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg"></a></code>
+<code><a href=#><img height="30" alt="Git" title="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a></code>
+<code><a href=#><img height="30" alt="SparQL" title="SparQL" src="https://cygri.github.io/rdf-logos/png/sparql-48.png"></a></code>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fotioudim&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
