@@ -4,13 +4,13 @@ I am a passionate software engineer. Τhrough my working experience and personal
 
 **You can reach me at** 
 [<img alt="Personal website" title="Personal website" width="30px" src="https://www.dfotiou.gr/wp-content/uploads/2020/07/logo_transparent.png"/>](https://www.dfotiou.gr)
-[<img alt="StackOverflow profile" title="StackOverflow profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>](https://stackoverflow.com/users/11680294/fotiou-d)
+[<img alt="StackOverflow profile" title="StackOverflow profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>](https://stackoverflow.com/users/11680294/dfotiou)
 &nbsp;
 [<img alt="Linkedin profile" title="Linkedin profile" width="30px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/>](https://www.linkedin.com/in/dimitris-fotiou/)
 &nbsp;
 **or email me at** 
 <a href="mailto:webmaster@example.com">
-  fotioudimitris93@gmail.com📫
+  dfotiou.tech@gmail.com📫
 </a>
 
 <br>
