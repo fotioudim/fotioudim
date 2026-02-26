@@ -3,7 +3,7 @@
 I am a passionate software engineer. Τhrough my working experience and personal experimentation, I aim at developing a comprehensive overall understanding, while keeping up with new trends in software architecture, automation and technologies.
 
 **You can reach me at** 
-[<img alt="Personal website" title="Personal website" width="30px" src="https://www.dfotiou.gr/wp-content/uploads/2020/07/logo_transparent.png"/>](https://www.dfotiou.gr)
+[<img alt="Personal website" title="Personal website" width="30px" src="https://github.com/fotioudim/fotioudim.github.io/blob/main/logo_transparent.png"/>](https://fotioudim.github.io/)
 [<img alt="StackOverflow profile" title="StackOverflow profile" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>](https://stackoverflow.com/users/11680294/dfotiou)
 &nbsp;
 [<img alt="Linkedin profile" title="Linkedin profile" width="30px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/>](https://www.linkedin.com/in/dimitris-fotiou/)
