@@ -29,7 +29,7 @@ I am a passionate software engineer from Athens, Greece. Τhrough my working exp
 <code><a href=#><img height="30" alt="Quarkus" title="Quarkus" src="https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png"></a></code>
 <code><a href=#><img height="30" alt="Nodejs" title="Nodejs" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></a></code>
 <code><a href=#><img height="30" alt="Spring" title="Spring" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"></a></code>
-<code><a href=#><img height="30" alt=".Net" title=".Net" src="./assets/icons/dotnet.svg"></a></code>
+<code><a href=#><img height="30" alt=".Net" title=".Net" src="./assets/icons/png"></a></code>
 
 *technologies and tools:*
 &nbsp;
