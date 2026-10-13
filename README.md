@@ -1,6 +1,6 @@
 ### Hi there, I am Dimitris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a passionate software engineer from Athens, Greece. Τhrough my working experience and personal experimentation, I aim at developing a comprehensive overall understanding, while keeping up wit[..[...] 
+I am a passionate software engineer from Athens, Greece. Τhrough my working experience and personal experimentation, I aim at developing a comprehensive overall understanding, while keeping up with new trends in software architecture, automation and technologies.
 
 **You can reach me at** 
 [<img alt="Personal website" title="Personal website" width="30px" src="https://github.com/fotioudim/fotioudim.github.io/blob/main/logo_transparent.png"/>](https://fotioudim.github.io/)
