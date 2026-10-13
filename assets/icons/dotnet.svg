@@ -1,17 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label=".NET logo">
   <defs>
-    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#512BD4"/>
-      <stop offset="100%" stop-color="#7B61FF"/>
-    </linearGradient>
-    <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#00A4EF"/>
-      <stop offset="100%" stop-color="#5BE3FF"/>
+    <linearGradient id="bg" x1="8" y1="8" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B5FFF"/>
+      <stop offset="0.5" stop-color="#512BD4"/>
+      <stop offset="1" stop-color="#00AEEF"/>
     </linearGradient>
   </defs>
-  <rect width="128" height="128" rx="18" fill="#0F172A"/>
-  <path d="M30 40c0-8.8 7.2-16 16-16h18c8.8 0 16 7.2 16 16v4h-12v-4c0-2.2-1.8-4-4-4H46c-2.2 0-4 1.8-4 4v46c0 2.2 1.8 4 4 4h18c2.2 0 4-1.8 4-4v-4h12v4c0 8.8-7.2 16-16 16H46c-8.8 0-16-7.2-16-16V40z" fill="url(#g1)"/>
-  <path d="M81 36h15.5c11 0 20.5 8.2 20.5 18.5S107.5 73 96.5 73H81V36zm12 12v13h3.5c3.9 0 7.5-2.8 7.5-6.5S100.4 48 96.5 48H93z" fill="url(#g2)"/>
-  <circle cx="101" cy="90" r="8" fill="#7B61FF"/>
-  <path d="M18 93l18-44h12l-18 44H18zm22 0l18-44h13l-18 44H40zm22 0l18-44h12l-18 44H62z" fill="#ffffff" opacity="0.92"/>
+
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="url(#bg)"/>
+
+  <path d="M44 24h18c24 0 40 17 40 40S86 104 62 104H44V24zm18 16v48h2c12 0 24-7 24-24s-12-24-24-24h-2z" fill="#FFFFFF"/>
+  <path d="M78 24h14c15 0 28 12 28 28 0 9-4 17-11 22l11 19H93l-9-16H78V24zm14 16v24h2c6 0 10-5 10-12s-4-12-10-12h-2z" fill="#B7F0FF" opacity="0.95"/>
+  <circle cx="96" cy="36" r="7" fill="#DFF9FF"/>
 </svg>
